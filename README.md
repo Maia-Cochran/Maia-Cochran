@@ -1,5 +1,5 @@
 ## Hi there, I'm Maia 👋
-### 😄 Pronouns: She/They
+## 😄 Pronouns: She/They
 ### 👀 I’m interested in international communications, linguistics, and Frontend Web Development 
 ### 🌱 I’m currently learning TypeScript, PWA's, and Python
 ### 💞️ I’m looking to collaborate on any passion projects!
