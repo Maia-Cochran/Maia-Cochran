@@ -1,7 +1,7 @@
 ## Hi there, I'm Maia 👋
 #### 😄 Pronouns: She/They
 ### 👀 I’m interested in international communications, linguistics, and Frontend Web Development 
-### 🌱 I’m currently learning TypeScript, PWA's, and Python
+### 🌱 I’m currently learning TypeScript, PWA's, and GraphQL
 ### 💞️ I’m looking to collaborate on any passion projects!
 ### 🔭 I’m currently working on a Full Stack development team focusing on learning PWA in React 
 ### 💬 Ask me about agile workflows, React, React Native, Cypress, SASS, vanilla JavaScript, HTML, CSS, Mocha/Chai, JQuery, UI/UX design, accessibility, and TDD (Test-Driven Development)
