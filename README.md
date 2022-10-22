@@ -1,6 +1,8 @@
-# Hi there, I'm Maia (She/They) ✨ 👋
+# Hi there 👋   I'm Maia (my-uh) ✨
+## Pronouns: She/They
 
-## 👀 Interested in Frontend and Full Stack Software Development, international communications, linguistics, and spending time anywhere in the mountains.  ## 🌱 Learning TypeScript, Progressive Web-Application (PWA), and GraphQL in React. 
+## 👀 Interested in Frontend and Full Stack Software Development, international communications, linguistics, and spending time anywhere in the mountains. 
+## 🌱 Learning TypeScript, Progressive Web-Application (PWA), and GraphQL in React. 
 ## 💞️ Looking for my next career opportunity and/or to collaborate on new projects.
 ## 🔭 Currently working on a Full Stack web development team focusing on GraphQL in React. 
 ## 💬 Ask me about agile workflows, UI/UX design, accessibility, and TDD (Test-Driven Development).
