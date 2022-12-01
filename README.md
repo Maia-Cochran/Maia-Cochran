@@ -2,9 +2,9 @@
 ## Pronouns: She/They
 
 ## 👀 Interested in Frontend and Full Stack Software Development, international communications, linguistics, and spending time anywhere in the mountains. 
-## 🌱 Learning TypeScript, Progressive Web-Application (PWA), and GraphQL in React. 
+## 🌱 Learning Java, Progressive Web-Application (PWA), and AWS. 
 ## 💞️ Looking for my next career opportunity and/or to collaborate on new projects.
-## 🔭 Currently working on a Full Stack web development team focusing on GraphQL in React. 
+## 🔭 Currently working on a Full Stack web development team focusing on React Native and Typescript. 
 ## 💬 Ask me about agile workflows, UI/UX design, accessibility, and TDD (Test-Driven Development).
 ## 📫 Let's Connect!
 - Email me at [MaiaECochran@gmail.com](mailto:MaiaECochran@gmail.com)
