@@ -1,6 +1,6 @@
 # Hi there 👋   I'm Maia (my-uh) ✨
 
-## 👀 Interested in Front End and Full Stack Software Development, international communications, linguistics, and spending time anywhere in the mountains. 
+## 👀 Front End and Full Stack Software Development, international communications, linguistics, and spending time anywhere in the mountains. 
 
 - Email me at [MaiaECochran@gmail.com](mailto:MaiaECochran@gmail.com)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/maiaecochran/)
