@@ -1,14 +1,10 @@
 # Hi there 👋   I'm Maia (my-uh) ✨
-## Pronouns: She/They
 
-## 👀 Interested in Frontend and Full Stack Software Development, international communications, linguistics, and spending time anywhere in the mountains. 
-## 🌱 Learning Java, Progressive Web-Application (PWA), and AWS. 
-## 💞️ Looking for my next career opportunity and/or to collaborate on new projects. 
-## 💬 Ask me about agile workflows, UI/UX design, accessibility, and TDD (Test-Driven Development).
-## 📫 Let's Connect!
+## 👀 Interested in Front End and Full Stack Software Development, international communications, linguistics, and spending time anywhere in the mountains. 
+
 - Email me at [MaiaECochran@gmail.com](mailto:MaiaECochran@gmail.com)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/maiaecochran/)
-- Reach out to me on the Turing Slack Channel: @Maia-Cochran
+- Reach out to me on Slack: @Maia-Cochran
 
 ## 👾 Featured Tech: 
 ### Languages
